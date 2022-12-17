@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is CE6B-133B
-
- Directory of C:\Users\Irfan Shaik\Desktop\GitProject
-
-12/17/2022  01:43 PM    <DIR>          .
-12/17/2022  01:37 PM    <DIR>          ..
-12/17/2022  01:43 PM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  68,717,907,968 bytes free
+Change 1
